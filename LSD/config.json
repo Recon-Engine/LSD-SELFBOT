@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "password": "discord-password",
+    "prefix": "-",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/",
+    "tts_language": "en",
+    
+    "status1": "Activity Test 1",
+    "status2": "Activity Test 2"
+}

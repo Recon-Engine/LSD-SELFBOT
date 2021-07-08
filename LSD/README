@@ -1,0 +1,15 @@
+Title : LSD SELFBOT 
+Created By : Z-Patience
+Coded In : Python3.9
+github : https://github.com/Z-Patience
+Instagram : d.a.t.a.theif
+
+
+
+#1 - Open the [ config.json ] file and put in your token and password in the required areas.
+
+#2 - Open selfbot.py in a text editor and change the directory of commands for the selfbot -from line [3201] all the way to line [3269] to your own directory location to the virus files.
+
+#2-3 - replace the file locations for the viruses in side the VIRUSES folder.
+
+#3 - Install Python 3.9 or Python 3.8.
